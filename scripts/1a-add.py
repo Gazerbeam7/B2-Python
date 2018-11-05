@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # 1a-add.py
 # demander 2 nombres, afficher résultat addition des deux
-# Théo Charron et Antoine Nicolleau
+# Théo Charron
 #
 
 
