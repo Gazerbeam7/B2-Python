@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 # 1d-mol.py
 # jeu + ou -
-# Théo Charron et Antoine Nicolleau
+# Théo Charron
 # 23/10/18
 
 import random 
