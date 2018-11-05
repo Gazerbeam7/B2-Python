@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # 1b-dic.py
 # saisie plusieurs prénoms, arret possible avec 'q'
-# Théo Charron et Antoine Nicolleau
+# Théo Charron 
 # 19/10/2018
 
 
