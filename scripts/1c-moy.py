@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # 1c-moy.py
 # saisie 1 prénom, 1 note pour plusieurs personnes, 'q' pour stop, moyenne, top 5
-# Théo Charron et Antoine Nicolleau
+# Théo Charron
 # 16/10/2018
 
 
